@@ -7,6 +7,7 @@
 <p align="center">A Passionate FrontEnd Web Application Programmer From Chennai, India</p>
 <hr>
 
+     
 <h2 align="center">💫 Summary Of Vishal's Technical Life:</h2>
 Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application Devolopment!<br>Well Versed In Data Structures And Algorithms.<br>Mini Projects<br>Student 20 Year Old<br>Open Source
 <hr>
@@ -15,25 +16,18 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
 
 <p width="100%">
 <img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(1)-1.png" width="48%" height="100%"></img> 
-
 <img src="https://github.com/SriVishalS/SriVishalS/blob/98311758e3998b97b15e9fc5973a1af553f7e1dd/Sri%20Vishal%20S.%20(2)-1.png" width="48%" height="100%"></img> 
-
-
-<img src="https://github.com/SriVishalS/SriVishalS/blob/98311758e3998b97b15e9fc5973a1af553f7e1dd/Sri%20Vishal%20S.%20(3)-1.png" width="48%" height="100%"></img>
-
-
-
-<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(4)-1.png" width="48%" height="100%"></img>
-
-
+<img src="https://github.com/SriVishalS/SriVishalS/blob/98311758e3998b97b15e9fc5973a1af553f7e1dd/Sri%20Vishal%20S.%20(3)-1.png" width="48%" height="100%"></img> 
+<img src="https://github.com/SriVishalS/SriVishalS/blob/a4b8965ecce92de31d14e81fb07576f8f25145e9/Sri%20Vishal%20S.%20(4)-1.png" width="48%" height="100%"></img> 
+<HR>
 <img src="https://github.com/SriVishalS/SriVishalS/blob/a171251f0890d9e444cc258424a967b4ae1d48c7/Screenshot%202022-10-29%20204026.png" width="100%" height="100%"></img> <br>
+</p>
 <p align="right">ADDING MORE SOON.........</p>
 </p>
 <hr>
 <h2 align="center">🌐 Socials</h2>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals)
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/srivishals) 
 <hr>
 <h2 align="center">💻 Tech Stack</h2>
 
@@ -54,8 +48,7 @@ Knows Front-End WEB Development<br>Learns Typescript,Jquery,Mobile Application D
  </div> 
 <hr>
 
+
 ---
-
 ![](https://komarev.com/ghpvc/?username=SrivishalS)
-
 <!-- [![](https://visitcount.itsvg.in/api?id=SriVishalS&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in) -->
